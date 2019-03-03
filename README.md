@@ -2,18 +2,6 @@
 
 Designed in 960*544 for Retroarch Vita version.  
 Caution:it may cause SCREEN BURN-IN on Vita1000!!  
-   
-![Alt text](Screenshot/GBP1.jpg)  
-
-![Alt text](Screenshot/BVT1.jpg)  
-
-![Alt text](Screenshot/GBC1.jpg)  
-
-![Alt text](Screenshot/GBA1.jpg)  
-
-![Alt text](Screenshot/GBM1.jpg)  
-
-![Alt text](Screenshot/NES1.jpg)  
 _____
 Usage:
 -------
@@ -34,3 +22,18 @@ Overlays "gbc"s and "bivert"s have custom_viewport below:
 _____________
 Add/replace the file "Gambatte.cfg" for core "Gambatte"  
 or just add the lines if you choose one of them.
+
+___________________
+## Some Screenshots
+   
+![Alt text](Screenshot/GBP1.jpg)  
+
+![Alt text](Screenshot/BVT1.jpg)  
+
+![Alt text](Screenshot/GBC1.jpg)  
+
+![Alt text](Screenshot/GBA1.jpg)  
+
+![Alt text](Screenshot/GBM1.jpg)  
+
+![Alt text](Screenshot/NES1.jpg)  
