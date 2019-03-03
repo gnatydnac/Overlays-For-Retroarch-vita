@@ -2,7 +2,19 @@
 
 Designed in 960*544 for Retroarch Vita version.  
 Caution:it may cause SCREEN BURN-IN on Vita1000!!  
+   
+![Alt text](Screenshot/GBP1.jpg)  
 
+![Alt text](Screenshot/BVT1.jpg)  
+
+![Alt text](Screenshot/GBC1.jpg)  
+
+![Alt text](Screenshot/GBA1.jpg)  
+
+![Alt text](Screenshot/GBM1.jpg)  
+
+![Alt text](Screenshot/NES1.jpg)  
+_____
 Usage:
 -------
 Turn off "Bilinear Filtering" in  
