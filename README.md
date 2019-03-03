@@ -20,7 +20,7 @@ Overlays "gbc"s and "bivert"s have custom_viewport below:
 >[custom_viewport_x = "240"]  
 >[custom_viewport_y = "32"]  
 _____________
-Add/replace the file "Gambatte.cfg" for core "Gambatte"  
+Add/replace the file "Gambatte.cfg"(included) for core "Gambatte"  
 or just add the lines if you choose one of them.
 
 ___________________
