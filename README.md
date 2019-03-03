@@ -6,12 +6,13 @@ Caution:it may cause SCREEN BURN-IN on Vita1000!!
 Usage:
 -------
 Turn off "Bilinear Filtering" in  
-">settings
->>--video"  
+>settings
+>>--video
 Copy the files into "Data" and select one of what you prefer in  
-">Settings
+>Settings
 >>--Onscreen Display
->>>--onsreen overlay"  
+>>>--onsreen overlay
+
 after loading a ROM.
 
 Overlays "gbc"s and "bivert"s have custom_viewport below:  
