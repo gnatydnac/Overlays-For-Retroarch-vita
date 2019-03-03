@@ -7,7 +7,8 @@ Usage:
 -------
 Turn off "Bilinear Filtering" in  
 >settings
->>--video
+>>--video  
+
 Copy the files into "Data" and select one of what you prefer in  
 >Settings
 >>--Onscreen Display
