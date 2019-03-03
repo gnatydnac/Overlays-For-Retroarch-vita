@@ -9,7 +9,7 @@ Turn off "Bilinear Filtering" in
 >settings
 >>--video  
 
-Copy the files into "Data" and select one of what you prefer in  
+Copy the Dir "Retroarch" under "Data"(on your Vita) and select one of what you prefer in  
 >Settings
 >>--Onscreen Display
 >>>--onsreen overlay
