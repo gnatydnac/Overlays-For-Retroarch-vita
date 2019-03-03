@@ -1,6 +1,6 @@
 # Overlays-For-Retroarch-vita
 
-designed in 960*544 for Retroarch Vita version
+designed in 960*544 for Retroarch Vita version.
 Caution:it may cause SCREEN BURN-IN on Vita1000!!
 
 Usage:
